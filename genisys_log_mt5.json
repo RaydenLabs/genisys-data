@@ -4,13 +4,13 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 109086.61,
-    "equity": 109043.71,
-    "margine": 35.75,
-    "margine_libero": 109007.96,
+    "saldo": 109087.14,
+    "equity": 109035.93,
+    "margine": 36.92,
+    "margine_libero": 108999.01,
     "leva": 1000,
-    "profitto_giornaliero": 773.53,
-    "profitto_mensile": 4101.69
+    "profitto_giornaliero": 774.06,
+    "profitto_mensile": 4102.22
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37698,
-      "prezzo_corrente": 1.37358,
-      "profitto": -5.81,
+      "prezzo_corrente": 1.37323,
+      "profitto": -6.41,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17401,
-      "prezzo_corrente": 1.17091,
-      "profitto": -7.94,
+      "prezzo_corrente": 1.17065,
+      "profitto": -8.61,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37618,
-      "prezzo_corrente": 1.37358,
-      "profitto": -4.44,
+      "prezzo_corrente": 1.37323,
+      "profitto": -5.04,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17327,
-      "prezzo_corrente": 1.17091,
-      "profitto": -6.05,
+      "prezzo_corrente": 1.17065,
+      "profitto": -6.71,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.37535,
-      "prezzo_corrente": 1.37358,
-      "profitto": -4.53,
+      "prezzo_corrente": 1.37323,
+      "profitto": -5.43,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.17255,
-      "prezzo_corrente": 1.17091,
-      "profitto": -5.60,
+      "prezzo_corrente": 1.17065,
+      "profitto": -6.49,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.05,
       "prezzo_apertura": 1.17184,
-      "prezzo_corrente": 1.17091,
-      "profitto": -3.97,
+      "prezzo_corrente": 1.17065,
+      "profitto": -5.08,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.37455,
-      "prezzo_corrente": 1.37358,
-      "profitto": -2.49,
+      "prezzo_corrente": 1.37323,
+      "profitto": -3.38,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.07,
       "prezzo_apertura": 1.17114,
-      "prezzo_corrente": 1.17091,
-      "profitto": -1.37,
+      "prezzo_corrente": 1.17065,
+      "profitto": -2.93,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.37374,
-      "prezzo_corrente": 1.37358,
-      "profitto": -0.55,
+      "prezzo_corrente": 1.37323,
+      "profitto": -1.74,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,21 +118,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.17102,
-      "prezzo_corrente": 1.17091,
-      "profitto": -0.03,
-      "magic": 555,
-      "commento": "Genisys ONE FX Scalping"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.37365,
-      "prezzo_corrente": 1.37358,
-      "profitto": -0.12,
+      "prezzo_corrente": 1.17065,
+      "profitto": 0.61,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.06.26 22:14"
+  "aggiornato_il": "2025.06.26 22:15"
 }
