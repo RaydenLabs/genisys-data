@@ -4,83 +4,33 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 109046.66,
-    "equity": 109031.65,
-    "margine": 22.57,
-    "margine_libero": 109009.08,
+    "saldo": 109050.53,
+    "equity": 109031.19,
+    "margine": 21.72,
+    "margine_libero": 109009.47,
     "leva": 1000,
-    "profitto_giornaliero": 733.58,
-    "profitto_mensile": 4061.74
+    "profitto_giornaliero": 737.45,
+    "profitto_mensile": 4065.61
   },
   "operazioni_attive": [
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.37104,
-      "prezzo_corrente": 1.37309,
-      "profitto": -3.71,
-      "magic": 555,
-      "commento": "Genisys ONE FX Scalping"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.37223,
-      "prezzo_corrente": 1.37309,
-      "profitto": -1.68,
-      "magic": 555,
-      "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.37304,
-      "prezzo_corrente": 1.37309,
-      "profitto": -0.44,
-      "magic": 555,
-      "commento": "Genisys ONE FX Martingale"
-    },
     {
       "simbolo": "EURUSD",
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17196,
-      "prezzo_corrente": 1.16992,
-      "profitto": -5.23,
+      "prezzo_corrente": 1.16971,
+      "profitto": -5.77,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.37386,
-      "prezzo_corrente": 1.37309,
-      "profitto": 1.67,
-      "magic": 555,
-      "commento": "Genisys ONE FX Martingale"
     },
     {
       "simbolo": "EURUSD",
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17125,
-      "prezzo_corrente": 1.16992,
-      "profitto": -3.41,
+      "prezzo_corrente": 1.16971,
+      "profitto": -3.95,
       "magic": 123,
-      "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.04,
-      "prezzo_apertura": 1.37468,
-      "prezzo_corrente": 1.37309,
-      "profitto": 5.03,
-      "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
     {
@@ -88,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37529,
-      "prezzo_corrente": 1.37309,
-      "profitto": -3.76,
+      "prezzo_corrente": 1.37279,
+      "profitto": -4.27,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -98,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37385,
-      "prezzo_corrente": 1.37309,
-      "profitto": -1.30,
+      "prezzo_corrente": 1.37279,
+      "profitto": -1.81,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.17055,
-      "prezzo_corrente": 1.16992,
-      "profitto": -2.15,
+      "prezzo_corrente": 1.16971,
+      "profitto": -2.87,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,11 +68,31 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.17004,
-      "prezzo_corrente": 1.16992,
-      "profitto": -0.03,
+      "prezzo_corrente": 1.16971,
+      "profitto": 0.51,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "BUY",
+      "lotto": 0.03,
+      "prezzo_apertura": 1.37303,
+      "prezzo_corrente": 1.37279,
+      "profitto": -0.62,
+      "magic": 123,
+      "commento": "Genisys ONE FX Martingale"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.05,
+      "prezzo_apertura": 1.16984,
+      "prezzo_corrente": 1.16971,
+      "profitto": -0.56,
+      "magic": 123,
+      "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.06.26 18:10"
+  "aggiornato_il": "2025.06.26 18:11"
 }
