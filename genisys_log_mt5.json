@@ -4,13 +4,13 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 109350.65,
-    "equity": 109304.58,
-    "margine": 35.71,
-    "margine_libero": 109268.87,
+    "saldo": 109351.16,
+    "equity": 109299.21,
+    "margine": 36.88,
+    "margine_libero": 109262.33,
     "leva": 1000,
-    "profitto_giornaliero": 90.75,
-    "profitto_mensile": 4370.44
+    "profitto_giornaliero": 91.26,
+    "profitto_mensile": 4370.95
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37353,
-      "prezzo_corrente": 1.36867,
-      "profitto": -8.30,
+      "prezzo_corrente": 1.36849,
+      "profitto": -8.61,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17390,
-      "prezzo_corrente": 1.17104,
-      "profitto": -7.33,
+      "prezzo_corrente": 1.17079,
+      "profitto": -7.97,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.37205,
-      "prezzo_corrente": 1.36867,
-      "profitto": -5.77,
+      "prezzo_corrente": 1.36849,
+      "profitto": -6.08,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.37122,
-      "prezzo_corrente": 1.36867,
-      "profitto": -6.53,
+      "prezzo_corrente": 1.36849,
+      "profitto": -7.00,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17291,
-      "prezzo_corrente": 1.17104,
-      "profitto": -4.79,
+      "prezzo_corrente": 1.17079,
+      "profitto": -5.43,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.37043,
-      "prezzo_corrente": 1.36867,
-      "profitto": -4.51,
+      "prezzo_corrente": 1.36849,
+      "profitto": -4.97,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.17209,
-      "prezzo_corrente": 1.17104,
-      "profitto": -3.59,
+      "prezzo_corrente": 1.17079,
+      "profitto": -4.44,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.36963,
-      "prezzo_corrente": 1.36867,
-      "profitto": -3.28,
+      "prezzo_corrente": 1.36849,
+      "profitto": -3.89,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.05,
       "prezzo_apertura": 1.17139,
-      "prezzo_corrente": 1.17104,
-      "profitto": -1.49,
+      "prezzo_corrente": 1.17079,
+      "profitto": -2.56,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,31 +108,21 @@
       "tipo": "BUY",
       "lotto": 0.06,
       "prezzo_apertura": 1.36882,
-      "prezzo_corrente": 1.36867,
-      "profitto": -0.77,
+      "prezzo_corrente": 1.36849,
+      "profitto": -1.69,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.36893,
-      "prezzo_corrente": 1.36867,
-      "profitto": 0.24,
-      "magic": 555,
-      "commento": "Genisys ONE FX Scalping"
     },
     {
       "simbolo": "EURUSD",
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.17119,
-      "prezzo_corrente": 1.17104,
-      "profitto": 0.05,
+      "prezzo_corrente": 1.17079,
+      "profitto": 0.69,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.06.30 15:38"
+  "aggiornato_il": "2025.06.30 15:39"
 }
