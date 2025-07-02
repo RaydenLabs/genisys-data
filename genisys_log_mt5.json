@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 110062.38,
-    "equity": 110027.94,
+    "equity": 110028.08,
     "margine": 19.18,
-    "margine_libero": 110008.76,
+    "margine_libero": 110008.90,
     "leva": 1000,
     "profitto_giornaliero": 1.17,
     "profitto_mensile": 642.25
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35913,
-      "prezzo_corrente": 1.36445,
-      "profitto": -9.70,
+      "prezzo_corrente": 1.36446,
+      "profitto": -9.66,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36126,
-      "prezzo_corrente": 1.36445,
-      "profitto": -6.09,
+      "prezzo_corrente": 1.36446,
+      "profitto": -6.05,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36208,
-      "prezzo_corrente": 1.36445,
-      "profitto": -7.04,
+      "prezzo_corrente": 1.36446,
+      "profitto": -6.99,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36287,
-      "prezzo_corrente": 1.36445,
-      "profitto": -5.03,
+      "prezzo_corrente": 1.36446,
+      "profitto": -4.98,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.36369,
-      "prezzo_corrente": 1.36445,
-      "profitto": -3.93,
+      "prezzo_corrente": 1.36446,
+      "profitto": -3.87,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,11 +68,11 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17991,
-      "prezzo_corrente": 1.17953,
-      "profitto": -0.97,
+      "prezzo_corrente": 1.17949,
+      "profitto": -1.07,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.03 00:32"
+  "aggiornato_il": "2025.07.03 00:33"
 }
