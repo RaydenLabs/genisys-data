@@ -4,13 +4,13 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 110199.46,
-    "equity": 110199.30,
-    "margine": 11.12,
-    "margine_libero": 110188.18,
+    "saldo": 110200.48,
+    "equity": 110197.62,
+    "margine": 8.12,
+    "margine_libero": 110189.50,
     "leva": 1000,
-    "profitto_giornaliero": 139.93,
-    "profitto_mensile": 781.01
+    "profitto_giornaliero": 140.95,
+    "profitto_mensile": 782.03
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36339,
-      "prezzo_corrente": 1.36436,
-      "profitto": -1.84,
+      "prezzo_corrente": 1.36469,
+      "profitto": -2.40,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,31 +28,21 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36421,
-      "prezzo_corrente": 1.36436,
-      "profitto": -0.44,
+      "prezzo_corrente": 1.36469,
+      "profitto": -1.00,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "EURUSD",
-      "tipo": "SELL",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.17570,
-      "prezzo_corrente": 1.17528,
-      "profitto": 0.74,
-      "magic": 555,
-      "commento": "Genisys ONE FX Scalping"
     },
     {
       "simbolo": "GBPUSD",
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36501,
-      "prezzo_corrente": 1.36436,
-      "profitto": 1.38,
+      "prezzo_corrente": 1.36469,
+      "profitto": 0.54,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.03 17:57"
+  "aggiornato_il": "2025.07.03 17:58"
 }
