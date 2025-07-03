@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 110075.34,
-    "equity": 110064.64,
+    "equity": 110063.25,
     "margine": 18.56,
-    "margine_libero": 110046.08,
+    "margine_libero": 110044.69,
     "leva": 1000,
     "profitto_giornaliero": 15.81,
     "profitto_mensile": 656.89
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36245,
-      "prezzo_corrente": 1.36480,
-      "profitto": -4.17,
+      "prezzo_corrente": 1.36496,
+      "profitto": -4.46,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -59,7 +59,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17911,
       "prezzo_corrente": 1.18012,
-      "profitto": -2.90,
+      "profitto": -2.87,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36325,
-      "prezzo_corrente": 1.36480,
-      "profitto": -2.81,
+      "prezzo_corrente": 1.36496,
+      "profitto": -3.10,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36406,
-      "prezzo_corrente": 1.36480,
-      "profitto": -2.16,
+      "prezzo_corrente": 1.36496,
+      "profitto": -2.59,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17986,
       "prezzo_corrente": 1.18012,
-      "profitto": -0.99,
+      "profitto": -0.97,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,11 +98,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36487,
-      "prezzo_corrente": 1.36480,
-      "profitto": -0.10,
+      "prezzo_corrente": 1.36496,
+      "profitto": -0.53,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.03 09:58"
+  "aggiornato_il": "2025.07.03 09:59"
 }
