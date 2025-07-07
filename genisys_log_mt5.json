@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 110367.61,
-    "equity": 110269.03,
+    "equity": 110269.32,
     "margine": 82.55,
-    "margine_libero": 110186.48,
+    "margine_libero": 110186.77,
     "leva": 1000,
     "profitto_giornaliero": 122.87,
     "profitto_mensile": 950.75
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35776,
-      "prezzo_corrente": 1.36418,
-      "profitto": -11.14,
+      "prezzo_corrente": 1.36417,
+      "profitto": -11.12,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35863,
-      "prezzo_corrente": 1.36418,
-      "profitto": -9.65,
+      "prezzo_corrente": 1.36417,
+      "profitto": -9.64,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.35948,
-      "prezzo_corrente": 1.36418,
-      "profitto": -12.31,
+      "prezzo_corrente": 1.36417,
+      "profitto": -12.29,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36030,
-      "prezzo_corrente": 1.36418,
-      "profitto": -10.22,
+      "prezzo_corrente": 1.36417,
+      "profitto": -10.19,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.36111,
-      "prezzo_corrente": 1.36418,
-      "profitto": -10.86,
+      "prezzo_corrente": 1.36417,
+      "profitto": -10.83,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.06,
       "prezzo_apertura": 1.36196,
-      "prezzo_corrente": 1.36418,
-      "profitto": -11.95,
+      "prezzo_corrente": 1.36417,
+      "profitto": -11.90,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -79,7 +79,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17221,
       "prezzo_corrente": 1.17443,
-      "profitto": -5.98,
+      "profitto": -6.00,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17292,
       "prezzo_corrente": 1.17443,
-      "profitto": -4.16,
+      "profitto": -4.19,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -99,7 +99,7 @@
       "lotto": 0.04,
       "prezzo_apertura": 1.17362,
       "prezzo_corrente": 1.17443,
-      "profitto": -3.17,
+      "profitto": -3.20,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +108,8 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.36280,
-      "prezzo_corrente": 1.36418,
-      "profitto": -8.94,
+      "prezzo_corrente": 1.36417,
+      "profitto": -8.88,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,8 +118,8 @@
       "tipo": "SELL",
       "lotto": 0.10,
       "prezzo_apertura": 1.36363,
-      "prezzo_corrente": 1.36418,
-      "profitto": -5.70,
+      "prezzo_corrente": 1.36417,
+      "profitto": -5.62,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -128,8 +128,8 @@
       "tipo": "SELL",
       "lotto": 0.13,
       "prezzo_apertura": 1.36445,
-      "prezzo_corrente": 1.36418,
-      "profitto": 1.66,
+      "prezzo_corrente": 1.36417,
+      "profitto": 1.77,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -139,7 +139,7 @@
       "lotto": 0.05,
       "prezzo_apertura": 1.17432,
       "prezzo_corrente": 1.17443,
-      "profitto": -0.98,
+      "profitto": -1.02,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -154,5 +154,5 @@
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.07 17:48"
+  "aggiornato_il": "2025.07.07 17:49"
 }
