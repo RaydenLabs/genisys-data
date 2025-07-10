@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111127.12,
-    "equity": 111083.89,
+    "equity": 111083.18,
     "margine": 46.27,
-    "margine_libero": 111037.62,
+    "margine_libero": 111036.91,
     "leva": 1000,
     "profitto_giornaliero": 5.16,
     "profitto_mensile": 1713.02
@@ -19,7 +19,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17010,
       "prezzo_corrente": 1.17377,
-      "profitto": -9.69,
+      "profitto": -9.74,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -29,7 +29,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.17082,
       "prezzo_corrente": 1.17377,
-      "profitto": -7.85,
+      "profitto": -7.90,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -39,7 +39,7 @@
       "lotto": 0.04,
       "prezzo_apertura": 1.17152,
       "prezzo_corrente": 1.17377,
-      "profitto": -8.08,
+      "profitto": -8.14,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -49,7 +49,7 @@
       "lotto": 0.05,
       "prezzo_apertura": 1.17222,
       "prezzo_corrente": 1.17377,
-      "profitto": -7.11,
+      "profitto": -7.20,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -69,7 +69,7 @@
       "lotto": 0.07,
       "prezzo_apertura": 1.17293,
       "prezzo_corrente": 1.17377,
-      "profitto": -5.72,
+      "profitto": -5.84,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.09,
       "prezzo_apertura": 1.17366,
       "prezzo_corrente": 1.17377,
-      "profitto": -1.76,
+      "profitto": -1.92,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -99,7 +99,7 @@
       "lotto": 0.11,
       "prezzo_apertura": 1.17433,
       "prezzo_corrente": 1.17377,
-      "profitto": 4.12,
+      "profitto": 3.94,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -174,5 +174,5 @@
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.10 08:30"
+  "aggiornato_il": "2025.07.10 08:31"
 }
