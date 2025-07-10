@@ -4,13 +4,13 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 111125.59,
-    "equity": 111059.21,
-    "margine": 47.45,
-    "margine_libero": 111011.76,
+    "saldo": 111126.10,
+    "equity": 111054.06,
+    "margine": 48.61,
+    "margine_libero": 111005.45,
     "leva": 1000,
-    "profitto_giornaliero": 3.63,
-    "profitto_mensile": 1711.49
+    "profitto_giornaliero": 4.14,
+    "profitto_mensile": 1712.00
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.17010,
-      "prezzo_corrente": 1.17445,
-      "profitto": -11.42,
+      "prezzo_corrente": 1.17456,
+      "profitto": -11.75,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.17082,
-      "prezzo_corrente": 1.17445,
-      "profitto": -9.58,
+      "prezzo_corrente": 1.17456,
+      "profitto": -9.91,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.17152,
-      "prezzo_corrente": 1.17445,
-      "profitto": -10.39,
+      "prezzo_corrente": 1.17456,
+      "profitto": -10.83,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.17222,
-      "prezzo_corrente": 1.17445,
-      "profitto": -10.00,
+      "prezzo_corrente": 1.17456,
+      "profitto": -10.56,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35868,
-      "prezzo_corrente": 1.36060,
-      "profitto": -3.49,
+      "prezzo_corrente": 1.36077,
+      "profitto": -3.80,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.17293,
-      "prezzo_corrente": 1.17445,
-      "profitto": -9.77,
+      "prezzo_corrente": 1.17456,
+      "profitto": -10.55,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35955,
-      "prezzo_corrente": 1.36060,
-      "profitto": -2.01,
+      "prezzo_corrente": 1.36077,
+      "profitto": -2.32,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "SELL",
       "lotto": 0.09,
       "prezzo_apertura": 1.17366,
-      "prezzo_corrente": 1.17445,
-      "profitto": -6.97,
+      "prezzo_corrente": 1.17456,
+      "profitto": -7.97,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.11,
       "prezzo_apertura": 1.17433,
-      "prezzo_corrente": 1.17445,
-      "profitto": -2.25,
+      "prezzo_corrente": 1.17456,
+      "profitto": -3.46,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.17448,
-      "prezzo_corrente": 1.17445,
-      "profitto": -0.08,
+      "prezzo_corrente": 1.17456,
+      "profitto": 0.20,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -118,21 +118,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.36036,
-      "prezzo_corrente": 1.36060,
-      "profitto": -0.95,
+      "prezzo_corrente": 1.36077,
+      "profitto": -1.40,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.36047,
-      "prezzo_corrente": 1.36060,
-      "profitto": 0.22,
-      "magic": 123,
-      "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.10 03:25"
+  "aggiornato_il": "2025.07.10 03:26"
 }
