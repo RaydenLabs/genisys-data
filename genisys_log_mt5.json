@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111249.11,
-    "equity": 111185.54,
+    "equity": 111186.01,
     "margine": 66.21,
-    "margine_libero": 111119.33,
+    "margine_libero": 111119.80,
     "leva": 1000,
     "profitto_giornaliero": 0.00,
     "profitto_mensile": 1834.70
@@ -18,7 +18,7 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16674,
-      "prezzo_corrente": 1.16969,
+      "prezzo_corrente": 1.16970,
       "profitto": -8.95,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
@@ -48,7 +48,7 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16745,
-      "prezzo_corrente": 1.16969,
+      "prezzo_corrente": 1.16970,
       "profitto": -7.13,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
@@ -58,7 +58,7 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16816,
-      "prezzo_corrente": 1.16969,
+      "prezzo_corrente": 1.16970,
       "profitto": -7.08,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
@@ -88,7 +88,7 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.16888,
-      "prezzo_corrente": 1.16969,
+      "prezzo_corrente": 1.16970,
       "profitto": -5.77,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.54,
       "prezzo_apertura": 1.16960,
-      "prezzo_corrente": 1.16969,
-      "profitto": 4.15,
+      "prezzo_corrente": 1.16970,
+      "profitto": 4.62,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,7 +118,7 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.16959,
-      "prezzo_corrente": 1.16969,
+      "prezzo_corrente": 1.16970,
       "profitto": -3.83,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
@@ -134,5 +134,5 @@
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.11 00:23"
+  "aggiornato_il": "2025.07.11 00:24"
 }
