@@ -4,52 +4,22 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 111287.79,
-    "equity": 111285.82,
-    "margine": 5.81,
-    "margine_libero": 111280.01,
+    "saldo": 111289.61,
+    "equity": 111286.30,
+    "margine": 4.65,
+    "margine_libero": 111281.65,
     "leva": 1000,
-    "profitto_giornaliero": 43.22,
-    "profitto_mensile": 1877.92
+    "profitto_giornaliero": 45.04,
+    "profitto_mensile": 1879.74
   },
   "operazioni_attive": [
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.35481,
-      "prezzo_corrente": 1.35537,
-      "profitto": -1.20,
-      "magic": 555,
-      "commento": "Genisys ONE FX Scalping"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.35563,
-      "prezzo_corrente": 1.35537,
-      "profitto": 0.21,
-      "magic": 555,
-      "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "GBPUSD",
-      "tipo": "SELL",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.35644,
-      "prezzo_corrente": 1.35537,
-      "profitto": 2.39,
-      "magic": 555,
-      "commento": "Genisys ONE FX Martingale"
-    },
     {
       "simbolo": "GBPUSD",
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.35676,
-      "prezzo_corrente": 1.35537,
-      "profitto": -2.38,
+      "prezzo_corrente": 1.35539,
+      "profitto": -2.35,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -58,11 +28,11 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.35595,
-      "prezzo_corrente": 1.35537,
-      "profitto": -0.99,
+      "prezzo_corrente": 1.35539,
+      "profitto": -0.96,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.11 05:59"
+  "aggiornato_il": "2025.07.11 06:00"
 }
