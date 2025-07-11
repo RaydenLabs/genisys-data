@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111306.82,
-    "equity": 111294.37,
+    "equity": 111294.00,
     "margine": 20.11,
-    "margine_libero": 111274.26,
+    "margine_libero": 111273.89,
     "leva": 1000,
     "profitto_giornaliero": 62.25,
     "profitto_mensile": 1896.95
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16701,
-      "prezzo_corrente": 1.16813,
-      "profitto": -3.21,
+      "prezzo_corrente": 1.16815,
+      "profitto": -3.26,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16770,
-      "prezzo_corrente": 1.16813,
-      "profitto": -1.44,
+      "prezzo_corrente": 1.16815,
+      "profitto": -1.49,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16840,
-      "prezzo_corrente": 1.16813,
-      "profitto": 0.48,
+      "prezzo_corrente": 1.16815,
+      "profitto": 0.41,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.16912,
-      "prezzo_corrente": 1.16813,
-      "profitto": 3.68,
+      "prezzo_corrente": 1.16815,
+      "profitto": 3.60,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16951,
-      "prezzo_corrente": 1.16813,
-      "profitto": -3.54,
+      "prezzo_corrente": 1.16815,
+      "profitto": -3.49,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.35535,
-      "prezzo_corrente": 1.35326,
-      "profitto": -3.58,
+      "prezzo_corrente": 1.35322,
+      "profitto": -3.65,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16879,
-      "prezzo_corrente": 1.16813,
-      "profitto": -1.70,
+      "prezzo_corrente": 1.16815,
+      "profitto": -1.64,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.35449,
-      "prezzo_corrente": 1.35326,
-      "profitto": -2.11,
+      "prezzo_corrente": 1.35322,
+      "profitto": -2.17,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,11 +98,11 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.35366,
-      "prezzo_corrente": 1.35326,
-      "profitto": -1.03,
+      "prezzo_corrente": 1.35322,
+      "profitto": -1.13,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.11 11:52"
+  "aggiornato_il": "2025.07.11 11:53"
 }
