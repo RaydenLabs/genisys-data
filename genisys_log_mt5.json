@@ -4,25 +4,25 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 111284.15,
-    "equity": 111284.77,
-    "margine": 3.00,
-    "margine_libero": 111281.77,
+    "saldo": 111285.23,
+    "equity": 111285.16,
+    "margine": 2.32,
+    "margine_libero": 111282.84,
     "leva": 1000,
-    "profitto_giornaliero": 39.58,
-    "profitto_mensile": 1874.28
+    "profitto_giornaliero": 40.66,
+    "profitto_mensile": 1875.36
   },
   "operazioni_attive": [
     {
-      "simbolo": "EURUSD",
+      "simbolo": "GBPUSD",
       "tipo": "SELL",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.16704,
-      "prezzo_corrente": 1.16667,
-      "profitto": 0.62,
+      "lotto": 0.02,
+      "prezzo_apertura": 1.35481,
+      "prezzo_corrente": 1.35470,
+      "profitto": -0.07,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.11 03:54"
+  "aggiornato_il": "2025.07.11 03:55"
 }
