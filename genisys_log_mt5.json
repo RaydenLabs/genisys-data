@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111285.23,
-    "equity": 111279.18,
-    "margine": 9.48,
-    "margine_libero": 111269.70,
+    "equity": 111277.78,
+    "margine": 12.97,
+    "margine_libero": 111264.81,
     "leva": 1000,
     "profitto_giornaliero": 40.66,
     "profitto_mensile": 1875.36
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35481,
-      "prezzo_corrente": 1.35636,
-      "profitto": -2.88,
+      "prezzo_corrente": 1.35649,
+      "profitto": -3.10,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16733,
-      "prezzo_corrente": 1.16790,
-      "profitto": -1.80,
+      "prezzo_corrente": 1.16805,
+      "profitto": -2.16,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.35563,
-      "prezzo_corrente": 1.35636,
-      "profitto": -1.47,
+      "prezzo_corrente": 1.35649,
+      "profitto": -1.69,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.35632,
-      "prezzo_corrente": 1.35636,
-      "profitto": 0.07,
+      "prezzo_corrente": 1.35649,
+      "profitto": 0.29,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -58,11 +58,21 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16804,
-      "prezzo_corrente": 1.16790,
-      "profitto": 0.03,
+      "prezzo_corrente": 1.16805,
+      "profitto": -0.33,
+      "magic": 555,
+      "commento": "Genisys ONE FX Martingale"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "SELL",
+      "lotto": 0.03,
+      "prezzo_apertura": 1.35644,
+      "prezzo_corrente": 1.35649,
+      "profitto": -0.46,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.11 04:36"
+  "aggiornato_il": "2025.07.11 04:37"
 }
