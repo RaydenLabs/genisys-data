@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111477.52,
-    "equity": 111396.15,
+    "equity": 111396.46,
     "margine": 48.81,
-    "margine_libero": 111347.34,
+    "margine_libero": 111347.65,
     "leva": 1000,
     "profitto_giornaliero": 97.08,
     "profitto_mensile": 2068.66
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16952,
-      "prezzo_corrente": 1.16612,
-      "profitto": -8.75,
+      "prezzo_corrente": 1.16617,
+      "profitto": -8.62,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16712,
-      "prezzo_corrente": 1.16612,
-      "profitto": -2.57,
+      "prezzo_corrente": 1.16617,
+      "profitto": -2.44,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,8 +118,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.16638,
-      "prezzo_corrente": 1.16612,
-      "profitto": -0.89,
+      "prezzo_corrente": 1.16617,
+      "profitto": -0.72,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -128,8 +128,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16622,
-      "prezzo_corrente": 1.16612,
-      "profitto": -0.05,
+      "prezzo_corrente": 1.16617,
+      "profitto": -0.21,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -139,7 +139,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34303,
       "prezzo_corrente": 1.34320,
-      "profitto": -0.50,
+      "profitto": -0.48,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -149,10 +149,10 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34383,
       "prezzo_corrente": 1.34320,
-      "profitto": 0.87,
+      "profitto": 0.89,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.14 20:05"
+  "aggiornato_il": "2025.07.14 20:06"
 }
