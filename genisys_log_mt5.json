@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111487.15,
-    "equity": 111441.68,
+    "equity": 111441.94,
     "margine": 63.78,
-    "margine_libero": 111377.90,
+    "margine_libero": 111378.16,
     "leva": 1000,
     "profitto_giornaliero": 8.81,
     "profitto_mensile": 2079.03
@@ -108,8 +108,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16663,
-      "prezzo_corrente": 1.16847,
-      "profitto": -5.03,
+      "prezzo_corrente": 1.16842,
+      "profitto": -4.90,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -118,8 +118,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16735,
-      "prezzo_corrente": 1.16847,
-      "profitto": -3.18,
+      "prezzo_corrente": 1.16842,
+      "profitto": -3.06,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -129,7 +129,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34280,
       "prezzo_corrente": 1.34400,
-      "profitto": -2.28,
+      "profitto": -2.29,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -139,7 +139,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34364,
       "prezzo_corrente": 1.34400,
-      "profitto": -0.84,
+      "profitto": -0.86,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -148,8 +148,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16805,
-      "prezzo_corrente": 1.16847,
-      "profitto": -1.85,
+      "prezzo_corrente": 1.16842,
+      "profitto": -1.68,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -158,11 +158,11 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16852,
-      "prezzo_corrente": 1.16847,
-      "profitto": -0.13,
+      "prezzo_corrente": 1.16842,
+      "profitto": -0.26,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.15 09:23"
+  "aggiornato_il": "2025.07.15 09:24"
 }
