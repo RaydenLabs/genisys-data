@@ -1,0 +1,28 @@
+name: Sync JSON every 10 minutes
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # ogni 10 minuti (UTC)
+  workflow_dispatch:  # consente anche l'esecuzione manuale
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Configura Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Verifica cambiamenti
+        run: |
+          if git diff --quiet data/genisys_log_mt5.json; then
+            echo "Nessuna modifica, skip commit"
+          else
+            git add data/genisys_log_mt5.json
+            git commit -m "Sync JSON automatico ogni 10 minuti"
+            git push
+          fi
