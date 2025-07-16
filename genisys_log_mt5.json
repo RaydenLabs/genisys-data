@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111600.28,
-    "equity": 111584.19,
-    "margine": 29.38,
-    "margine_libero": 111554.81,
+    "equity": 111588.27,
+    "margine": 28.23,
+    "margine_libero": 111560.04,
     "leva": 1000,
     "profitto_giornaliero": 34.00,
     "profitto_mensile": 2197.07
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15964,
-      "prezzo_corrente": 1.16165,
-      "profitto": -5.50,
+      "prezzo_corrente": 1.16136,
+      "profitto": -4.75,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16035,
-      "prezzo_corrente": 1.16165,
-      "profitto": -3.67,
+      "prezzo_corrente": 1.16136,
+      "profitto": -2.92,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16107,
-      "prezzo_corrente": 1.16165,
-      "profitto": -2.41,
+      "prezzo_corrente": 1.16136,
+      "profitto": -1.41,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.16180,
-      "prezzo_corrente": 1.16165,
-      "profitto": 0.13,
+      "prezzo_corrente": 1.16136,
+      "profitto": 1.38,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.16250,
-      "prezzo_corrente": 1.16165,
-      "profitto": 4.40,
+      "prezzo_corrente": 1.16136,
+      "profitto": 6.15,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.34149,
-      "prezzo_corrente": 1.33941,
-      "profitto": -3.58,
+      "prezzo_corrente": 1.33943,
+      "profitto": -3.55,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.34066,
-      "prezzo_corrente": 1.33941,
-      "profitto": -2.15,
+      "prezzo_corrente": 1.33943,
+      "profitto": -2.12,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.33984,
-      "prezzo_corrente": 1.33941,
-      "profitto": -1.11,
+      "prezzo_corrente": 1.33943,
+      "profitto": -1.06,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.33900,
-      "prezzo_corrente": 1.33941,
-      "profitto": 1.06,
+      "prezzo_corrente": 1.33943,
+      "profitto": 1.11,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16236,
-      "prezzo_corrente": 1.16165,
-      "profitto": -1.83,
+      "prezzo_corrente": 1.16136,
+      "profitto": -2.58,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -118,7 +118,7 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.33869,
-      "prezzo_corrente": 1.33941,
+      "prezzo_corrente": 1.33943,
       "profitto": -1.46,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
@@ -128,11 +128,21 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16166,
-      "prezzo_corrente": 1.16165,
-      "profitto": -0.03,
+      "prezzo_corrente": 1.16136,
+      "profitto": -0.77,
       "magic": 123,
+      "commento": "Genisys ONE FX Martingale"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "SELL",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.33949,
+      "prezzo_corrente": 1.33943,
+      "profitto": -0.09,
+      "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.16 12:52"
+  "aggiornato_il": "2025.07.16 12:53"
 }
