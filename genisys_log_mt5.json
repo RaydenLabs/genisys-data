@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111906.11,
-    "equity": 111893.79,
+    "equity": 111893.80,
     "margine": 14.26,
-    "margine_libero": 111879.53,
+    "margine_libero": 111879.54,
     "leva": 1000,
     "profitto_giornaliero": 0.00,
     "profitto_mensile": 2502.84
@@ -39,7 +39,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34073,
       "prezzo_corrente": 1.34113,
-      "profitto": -1.00,
+      "profitto": -1.01,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16250,
-      "prezzo_corrente": 1.16373,
-      "profitto": -3.56,
+      "prezzo_corrente": 1.16371,
+      "profitto": -3.53,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -69,7 +69,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34153,
       "prezzo_corrente": 1.34113,
-      "profitto": 0.38,
+      "profitto": 0.36,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16323,
-      "prezzo_corrente": 1.16373,
-      "profitto": -1.68,
+      "prezzo_corrente": 1.16371,
+      "profitto": -1.65,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16388,
-      "prezzo_corrente": 1.16373,
-      "profitto": -0.39,
+      "prezzo_corrente": 1.16371,
+      "profitto": -0.44,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -98,11 +98,11 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16394,
-      "prezzo_corrente": 1.16373,
-      "profitto": 0.21,
+      "prezzo_corrente": 1.16371,
+      "profitto": 0.24,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.17 02:36"
+  "aggiornato_il": "2025.07.17 02:37"
 }
