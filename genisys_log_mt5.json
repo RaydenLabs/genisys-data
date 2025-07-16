@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111607.88,
-    "equity": 111599.96,
+    "equity": 111599.94,
     "margine": 12.23,
-    "margine_libero": 111587.73,
+    "margine_libero": 111587.71,
     "leva": 1000,
     "profitto_giornaliero": 41.54,
     "profitto_mensile": 2204.61
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16236,
-      "prezzo_corrente": 1.16163,
-      "profitto": -1.89,
+      "prezzo_corrente": 1.16161,
+      "profitto": -1.94,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -69,7 +69,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.33869,
       "prezzo_corrente": 1.34010,
-      "profitto": -2.63,
+      "profitto": -2.62,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16166,
-      "prezzo_corrente": 1.16163,
-      "profitto": -0.08,
+      "prezzo_corrente": 1.16161,
+      "profitto": -0.13,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.33949,
       "prezzo_corrente": 1.34010,
-      "profitto": -1.26,
+      "profitto": -1.24,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16097,
-      "prezzo_corrente": 1.16163,
-      "profitto": -2.01,
+      "prezzo_corrente": 1.16161,
+      "profitto": -1.99,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -108,11 +108,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16167,
-      "prezzo_corrente": 1.16163,
-      "profitto": -0.21,
+      "prezzo_corrente": 1.16161,
+      "profitto": -0.18,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.16 13:38"
+  "aggiornato_il": "2025.07.16 13:39"
 }
