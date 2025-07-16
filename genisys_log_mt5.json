@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111631.59,
-    "equity": 111625.00,
-    "margine": 20.81,
-    "margine_libero": 111604.19,
+    "equity": 111623.26,
+    "margine": 18.15,
+    "margine_libero": 111605.11,
     "leva": 1000,
     "profitto_giornaliero": 65.25,
     "profitto_mensile": 2228.32
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15972,
-      "prezzo_corrente": 1.16091,
-      "profitto": -3.38,
+      "prezzo_corrente": 1.16081,
+      "profitto": -3.13,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.33933,
-      "prezzo_corrente": 1.34033,
-      "profitto": -1.91,
+      "prezzo_corrente": 1.34034,
+      "profitto": -1.95,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.09,
       "prezzo_apertura": 1.16137,
-      "prezzo_corrente": 1.16091,
-      "profitto": -3.57,
+      "prezzo_corrente": 1.16081,
+      "profitto": -4.34,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,11 +48,31 @@
       "tipo": "BUY",
       "lotto": 0.11,
       "prezzo_apertura": 1.16067,
-      "prezzo_corrente": 1.16091,
-      "profitto": 2.27,
+      "prezzo_corrente": 1.16081,
+      "profitto": 1.33,
       "magic": 123,
+      "commento": "Genisys ONE FX Martingale"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.34045,
+      "prezzo_corrente": 1.34034,
+      "profitto": -0.19,
+      "magic": 123,
+      "commento": "Genisys ONE FX Scalping"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "SELL",
+      "lotto": 0.03,
+      "prezzo_apertura": 1.16091,
+      "prezzo_corrente": 1.16081,
+      "profitto": -0.05,
+      "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.16 15:34"
+  "aggiornato_il": "2025.07.16 15:35"
 }
