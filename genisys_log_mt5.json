@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 111607.88,
-    "equity": 111599.65,
+    "equity": 111599.70,
     "margine": 12.23,
-    "margine_libero": 111587.42,
+    "margine_libero": 111587.47,
     "leva": 1000,
     "profitto_giornaliero": 41.54,
     "profitto_mensile": 2204.61
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16236,
-      "prezzo_corrente": 1.16165,
-      "profitto": -1.83,
+      "prezzo_corrente": 1.16171,
+      "profitto": -1.68,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -69,7 +69,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.33869,
       "prezzo_corrente": 1.34006,
-      "profitto": -2.57,
+      "profitto": -2.55,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16166,
-      "prezzo_corrente": 1.16165,
-      "profitto": -0.03,
+      "prezzo_corrente": 1.16171,
+      "profitto": 0.13,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.33949,
       "prezzo_corrente": 1.34006,
-      "profitto": -1.19,
+      "profitto": -1.17,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16097,
-      "prezzo_corrente": 1.16165,
-      "profitto": -2.12,
+      "prezzo_corrente": 1.16171,
+      "profitto": -2.27,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -108,11 +108,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16167,
-      "prezzo_corrente": 1.16165,
-      "profitto": -0.31,
+      "prezzo_corrente": 1.16171,
+      "profitto": -0.46,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.16 13:40"
+  "aggiornato_il": "2025.07.16 13:41"
 }
