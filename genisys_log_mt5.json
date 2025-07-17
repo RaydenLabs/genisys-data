@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 112021.23,
-    "equity": 112012.60,
-    "margine": 14.10,
-    "margine_libero": 111998.50,
+    "equity": 112011.30,
+    "margine": 12.94,
+    "margine_libero": 111998.36,
     "leva": 1000,
     "profitto_giornaliero": 116.83,
     "profitto_mensile": 2619.67
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15989,
-      "prezzo_corrente": 1.15874,
-      "profitto": -2.98,
+      "prezzo_corrente": 1.15861,
+      "profitto": -3.31,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.34207,
-      "prezzo_corrente": 1.34039,
-      "profitto": -2.90,
+      "prezzo_corrente": 1.34028,
+      "profitto": -3.09,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.34126,
-      "prezzo_corrente": 1.34039,
-      "profitto": -1.50,
+      "prezzo_corrente": 1.34028,
+      "profitto": -1.69,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15919,
-      "prezzo_corrente": 1.15874,
-      "profitto": -1.17,
+      "prezzo_corrente": 1.15861,
+      "profitto": -1.50,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,11 +58,21 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.34042,
-      "prezzo_corrente": 1.34039,
-      "profitto": -0.08,
+      "prezzo_corrente": 1.34028,
+      "profitto": -0.36,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "SELL",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.34041,
+      "prezzo_corrente": 1.34028,
+      "profitto": 0.02,
+      "magic": 555,
+      "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.17 19:44"
+  "aggiornato_il": "2025.07.17 19:45"
 }
