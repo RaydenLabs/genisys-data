@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 112022.79,
-    "equity": 112013.67,
+    "equity": 112013.75,
     "margine": 14.28,
-    "margine_libero": 111999.39,
+    "margine_libero": 111999.47,
     "leva": 1000,
     "profitto_giornaliero": 118.39,
     "profitto_mensile": 2621.23
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15989,
-      "prezzo_corrente": 1.15867,
-      "profitto": -3.16,
+      "prezzo_corrente": 1.15869,
+      "profitto": -3.11,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15919,
-      "prezzo_corrente": 1.15867,
-      "profitto": -1.35,
+      "prezzo_corrente": 1.15869,
+      "profitto": -1.29,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.15848,
-      "prezzo_corrente": 1.15867,
-      "profitto": 0.66,
+      "prezzo_corrente": 1.15869,
+      "profitto": 0.72,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -79,7 +79,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.33980,
       "prezzo_corrente": 1.34068,
-      "profitto": -1.71,
+      "profitto": -1.73,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -89,7 +89,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.34061,
       "prezzo_corrente": 1.34068,
-      "profitto": -0.31,
+      "profitto": -0.33,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,11 +98,11 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15860,
-      "prezzo_corrente": 1.15867,
-      "profitto": -0.52,
+      "prezzo_corrente": 1.15869,
+      "profitto": -0.57,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.17 21:11"
+  "aggiornato_il": "2025.07.17 21:12"
 }
