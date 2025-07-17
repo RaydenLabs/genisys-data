@@ -5,9 +5,9 @@
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
     "saldo": 112007.03,
-    "equity": 112000.37,
-    "margine": 5.66,
-    "margine_libero": 111994.71,
+    "equity": 111999.42,
+    "margine": 7.97,
+    "margine_libero": 111991.45,
     "leva": 1000,
     "profitto_giornaliero": 102.63,
     "profitto_mensile": 2605.47
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15972,
-      "prezzo_corrente": 1.15858,
-      "profitto": -2.95,
+      "prezzo_corrente": 1.15827,
+      "profitto": -3.76,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.15878,
-      "prezzo_corrente": 1.15858,
-      "profitto": -0.52,
+      "prezzo_corrente": 1.15827,
+      "profitto": -1.32,
       "magic": 123,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.34045,
-      "prezzo_corrente": 1.33990,
-      "profitto": -0.95,
+      "prezzo_corrente": 1.33954,
+      "profitto": -1.57,
       "magic": 123,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.33942,
-      "prezzo_corrente": 1.33990,
-      "profitto": -1.02,
+      "prezzo_corrente": 1.33954,
+      "profitto": -0.40,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -58,11 +58,21 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15824,
-      "prezzo_corrente": 1.15858,
-      "profitto": -1.22,
+      "prezzo_corrente": 1.15827,
+      "profitto": -0.39,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
+    },
+    {
+      "simbolo": "GBPUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.33964,
+      "prezzo_corrente": 1.33954,
+      "profitto": -0.17,
+      "magic": 123,
+      "commento": "Genisys ONE FX Martingale"
     }
   ],
-  "aggiornato_il": "2025.07.17 16:59"
+  "aggiornato_il": "2025.07.17 17:00"
 }
