@@ -4,13 +4,13 @@
     "nome": "ANDREA CHERUBINI",
     "broker": "RoboForex Ltd",
     "valuta": "EUR",
-    "saldo": 112031.48,
-    "equity": 111966.12,
-    "margine": 45.69,
-    "margine_libero": 111920.43,
+    "saldo": 112032.51,
+    "equity": 111962.50,
+    "margine": 47.19,
+    "margine_libero": 111915.31,
     "leva": 1000,
-    "profitto_giornaliero": 2.59,
-    "profitto_mensile": 2630.34
+    "profitto_giornaliero": 3.62,
+    "profitto_mensile": 2631.37
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.33980,
-      "prezzo_corrente": 1.34309,
-      "profitto": -5.87,
+      "prezzo_corrente": 1.34325,
+      "profitto": -6.13,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.34061,
-      "prezzo_corrente": 1.34309,
-      "profitto": -4.47,
+      "prezzo_corrente": 1.34325,
+      "profitto": -4.73,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15813,
-      "prezzo_corrente": 1.16211,
-      "profitto": -10.61,
+      "prezzo_corrente": 1.16220,
+      "profitto": -10.81,
       "magic": 555,
       "commento": "Genisys ONE FX Scalping"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.15886,
-      "prezzo_corrente": 1.16211,
-      "profitto": -8.72,
+      "prezzo_corrente": 1.16220,
+      "profitto": -8.93,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.34143,
-      "prezzo_corrente": 1.34309,
-      "profitto": -4.59,
+      "prezzo_corrente": 1.34325,
+      "profitto": -4.98,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.15957,
-      "prezzo_corrente": 1.16211,
-      "profitto": -9.19,
+      "prezzo_corrente": 1.16220,
+      "profitto": -9.46,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.16028,
-      "prezzo_corrente": 1.16211,
-      "profitto": -8.43,
+      "prezzo_corrente": 1.16220,
+      "profitto": -8.78,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -88,8 +88,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.34224,
-      "prezzo_corrente": 1.34309,
-      "profitto": -2.50,
+      "prezzo_corrente": 1.34325,
+      "profitto": -2.89,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.16101,
-      "prezzo_corrente": 1.16211,
-      "profitto": -7.41,
+      "prezzo_corrente": 1.16220,
+      "profitto": -7.89,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -108,8 +108,8 @@
       "tipo": "SELL",
       "lotto": 0.09,
       "prezzo_apertura": 1.16176,
-      "prezzo_corrente": 1.16211,
-      "profitto": -3.72,
+      "prezzo_corrente": 1.16220,
+      "profitto": -4.34,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
     },
@@ -118,21 +118,11 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.34305,
-      "prezzo_corrente": 1.34309,
-      "profitto": -0.55,
+      "prezzo_corrente": 1.34325,
+      "profitto": -1.07,
       "magic": 555,
       "commento": "Genisys ONE FX Martingale"
-    },
-    {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.03,
-      "prezzo_apertura": 1.16184,
-      "prezzo_corrente": 1.16211,
-      "profitto": 0.70,
-      "magic": 123,
-      "commento": "Genisys ONE FX Scalping"
     }
   ],
-  "aggiornato_il": "2025.07.18 03:20"
+  "aggiornato_il": "2025.07.18 03:21"
 }
