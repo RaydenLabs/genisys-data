@@ -3,98 +3,121 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RaydenLabs | GenisysFX Dashboard</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <title>GenisysFX Dashboard | RaydenLabs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.10.0/lottie.min.js"></script>
   <style>
     body {
-      background: radial-gradient(circle at center, #0d0d0d 0%, #050505 100%);
-      color: #00ffee;
+      background: radial-gradient(circle at top, #070a14, #000);
       font-family: 'Orbitron', sans-serif;
-    }
-    .neon {
-      text-shadow: 0 0 10px #00ffee, 0 0 20px #00ffee, 0 0 30px #00ffee;
-    }
-    .card {
-      background-color: #111;
-      border: none;
-      box-shadow: 0 0 10px rgba(0,255,238,0.2);
-    }
-    a {
       color: #00ffee;
-      text-decoration: none;
+      overflow-x: hidden;
     }
-    a:hover {
-      color: #ffffff;
+    h1, h5 {
+      text-shadow: 0 0 12px #0ff, 0 0 20px #0ff;
     }
-    #marketAlert {
-      display: none;
+    .glow-box {
+      background-color: #0c0c0c;
+      border: 1px solid #00ffee44;
+      box-shadow: 0 0 20px rgba(0,255,238,0.2);
+      border-radius: 12px;
+      padding: 1.2rem;
+      transition: transform 0.3s ease;
+    }
+    .glow-box:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 0 25px rgba(0,255,238,0.4);
+    }
+    .animated-divider {
+      height: 2px;
+      background: linear-gradient(to right, transparent, #00ffee, transparent);
+      margin: 2rem 0;
+      animation: pulseGlow 2s infinite;
+    }
+    @keyframes pulseGlow {
+      0% { opacity: 0.5; }
+      50% { opacity: 1; }
+      100% { opacity: 0.5; }
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s ease forwards;
+    }
+    @keyframes fadeInUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .alert-danger {
+      border-radius: 10px;
       font-weight: bold;
-      animation: blink 1s infinite;
+      animation: blink 1.5s infinite;
     }
     @keyframes blink {
       0%, 100% { opacity: 1; }
-      50% { opacity: 0.5; }
+      50% { opacity: 0.4; }
     }
   </style>
 </head>
 <body>
 
-<div class="container text-center mt-5">
-  <h1 class="neon">RaydenLabs | GenisysFX Dashboard</h1>
-  <p>Trading algoritmico. Dati real-time. Performance trasparenti.</p>
+<div class="container text-center mt-5 fade-in">
+  <h1>GenisysFX Dashboard</h1>
+  <p>Precisione. Automazione. Dati real-time dal cuore del mercato.</p>
   <div id="animated-icon" style="height: 100px;"></div>
 </div>
 
-<div class="container my-4 text-center">
-  <div id="marketAlert" class="alert alert-danger">🚨 Drawdown critico rilevato!</div>
+<div class="animated-divider"></div>
+
+<div class="container text-center">
+  <div id="marketAlert" class="alert alert-danger" style="display:none;">🚨 Drawdown critico rilevato!</div>
 </div>
 
-<div class="container my-5">
+<div class="container my-4">
   <canvas id="genisysChart"></canvas>
 </div>
 
 <div class="container my-5">
-  <div class="row">
+  <div class="row g-4">
     <div class="col-md-4">
-      <div class="card text-white p-3">
-        <h5>📈 Performance</h5>
+      <div class="glow-box">
+        <h5>📈 Equity & Profitto</h5>
         <p id="equity">Equity: -- €</p>
         <p id="profit">Profitto: -- €</p>
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card text-white p-3">
-        <h5>🧾 Ordini</h5>
+      <div class="glow-box">
+        <h5>🧾 Ordini Attivi</h5>
         <div id="orderList"><p>Nessun ordine caricato</p></div>
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card text-white p-3">
-        <h5>📰 News & Insights</h5>
-        <p><em>Nessuna news disponibile.</em></p>
+      <div class="glow-box">
+        <h5>🧠 Ultimo Sync</h5>
+        <p id="lastUpdated">--</p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="container my-5 text-center">
-  <p id="disclaimer" style="cursor:pointer; color:#ff00cc;">📢 Clicca per leggere l’avviso sul rischio</p>
-  <div id="disclaimerBox" style="display:none; background-color:#111; padding:20px; border-radius:10px;">
+<div class="container text-center my-5 fade-in">
+  <p id="disclaimer" style="cursor:pointer; color:#ff00cc;">📢 Leggi l’avviso sul rischio</p>
+  <div id="disclaimerBox" style="display:none; background:#0d0d0d; padding:15px; border-radius:8px;">
     <p>
-      Gli strumenti finanziari comportano un elevato rischio di perdita. Le performance passate non garantiscono risultati futuri.
-      I contenuti presentati non costituiscono consulenza finanziaria né invito all’investimento.
+      ⚠️ Gli strumenti finanziari comportano un elevato rischio di perdita. Le performance passate non sono garanzia di risultati futuri. Questo contenuto non è consulenza finanziaria.
     </p>
   </div>
 </div>
 
-<div class="container text-center my-5">
+<div class="container text-center mb-4">
   <p>
-    🌐 <a href="https://www.raydenlabs.it" target="_blank">Visita RaydenLabs</a><br/>
-    📊 <a href="https://www.genisysfx.com" target="_blank">Scopri GenisysFX</a>
+    🔗 <a href="https://www.raydenlabs.it" target="_blank">RaydenLabs</a> |
+    📊 <a href="https://www.genisysfx.com" target="_blank">GenisysFX</a>
   </p>
-  <footer class="mt-4 text-muted">&copy; 2025 RaydenLabs. Tecnologia, precisione, performance.</footer>
+  <small class="text-muted">&copy; 2025 RaydenLabs. Performance. Tecnologia. Visione.</small>
 </div>
 
 <script>
@@ -104,16 +127,16 @@
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'https://assets8.lottiefiles.com/packages/lf20_fcfjwiyb.json'
+    path: 'https://assets10.lottiefiles.com/packages/lf20_JU1NUS.json'
   });
 
-  // Disclaimer interattivo
+  // Disclaimer toggle
   document.getElementById('disclaimer').onclick = () => {
     const box = document.getElementById('disclaimerBox');
     box.style.display = box.style.display === 'none' ? 'block' : 'none';
   };
 
-  // Chart iniziale
+  // Chart init
   const ctx = document.getElementById('genisysChart').getContext('2d');
   const genisysChart = new Chart(ctx, {
     type: 'line',
@@ -139,10 +162,10 @@
     }
   });
 
-  // Fetch dati live
+  // Fetch live JSON
   async function fetchData() {
     try {
-      const res = await fetch('https://raw.githubusercontent.com/RaydenLabs/genisys-data/main/genisys_log_mt5.json');
+      const res = await fetch('/genisys_log_mt5.json');
       const data = await res.json();
 
       const labels = data.map(d => d.timestamp);
@@ -153,8 +176,9 @@
       genisysChart.data.datasets[0].data = equity;
       genisysChart.update();
 
-      document.getElementById('equity').textContent = `Equity: ${latest.equity} €`;
-      document.getElementById('profit').textContent = `Profitto: ${latest.profit} €`;
+      document.getElementById('equity').textContent = `Equity: €${latest.equity}`;
+      document.getElementById('profit').textContent = `Profitto: €${latest.profit}`;
+      document.getElementById('lastUpdated').textContent = `${latest.timestamp}`;
 
       const orderList = document.getElementById('orderList');
       orderList.innerHTML = '';
@@ -164,19 +188,18 @@
         orderList.appendChild(item);
       });
 
-      // Notifica drawdown
+      // Drawdown alert
       document.getElementById('marketAlert').style.display =
         latest.drawdown > 10 ? 'block' : 'none';
 
     } catch (error) {
-      console.error('Errore nel fetch dei dati:', error);
+      console.error('❌ Errore nel caricamento dati:', error);
     }
   }
 
   fetchData();
-  setInterval(fetchData, 30000); // Aggiorna ogni 30 sec
+  setInterval(fetchData, 30000); // refresh ogni 30 secondi
 </script>
 
 </body>
 </html>
-
