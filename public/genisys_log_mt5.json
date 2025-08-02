@@ -14,16 +14,6 @@
   },
   "operazioni_attive": [
     {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.15832,
-      "prezzo_corrente": 1.15864,
-      "profitto": 0.55,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "BUY",
       "lotto": 0.02,
@@ -95,6 +85,16 @@
     },
     {
       "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.15832,
+      "prezzo_corrente": 1.15864,
+      "profitto": 0.55,
+      "magic": 123,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15679,
@@ -124,5 +124,5 @@
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.08.02 08:41"
+  "aggiornato_il": "2025.08.02 08:46"
 }
