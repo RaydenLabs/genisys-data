@@ -24,26 +24,6 @@
       "commento": "0"
     },
     {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.17599,
-      "prezzo_corrente": 1.17183,
-      "profitto": -7.10,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
-      "simbolo": "EURUSD",
-      "tipo": "SELL",
-      "lotto": 0.05,
-      "prezzo_apertura": 1.17470,
-      "prezzo_corrente": 1.17183,
-      "profitto": 11.39,
-      "magic": 555,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "SELL",
       "lotto": 0.02,
@@ -60,6 +40,26 @@
       "prezzo_apertura": 1.37267,
       "prezzo_corrente": 1.38242,
       "profitto": -12.37,
+      "magic": 555,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.17599,
+      "prezzo_corrente": 1.17183,
+      "profitto": -7.10,
+      "magic": 123,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "SELL",
+      "lotto": 0.05,
+      "prezzo_apertura": 1.17470,
+      "prezzo_corrente": 1.17183,
+      "profitto": 11.39,
       "magic": 555,
       "commento": "0"
     },
@@ -114,5 +114,5 @@
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.09.07 05:40"
+  "aggiornato_il": "2025.09.07 05:45"
 }
