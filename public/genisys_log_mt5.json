@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6451.87,
-    "equity": 6371.83,
+    "equity": 6366.48,
     "margine": 1303.72,
-    "margine_libero": 5068.11,
+    "margine_libero": 5062.76,
     "leva": 400,
     "profitto_giornaliero": 0.00,
     "profitto_mensile": 70.72
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.38924,
-      "prezzo_corrente": 1.38933,
-      "profitto": 0.11,
+      "prezzo_corrente": 1.38922,
+      "profitto": -0.03,
       "magic": 123,
       "commento": "0"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38928,
-      "prezzo_corrente": 1.38933,
-      "profitto": -0.28,
+      "prezzo_corrente": 1.38922,
+      "profitto": -0.14,
       "magic": 555,
       "commento": "0"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38328,
-      "prezzo_corrente": 1.38933,
-      "profitto": -7.64,
+      "prezzo_corrente": 1.38922,
+      "profitto": -7.50,
       "magic": 555,
       "commento": "0"
     },
@@ -48,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.37720,
-      "prezzo_corrente": 1.38933,
-      "profitto": -15.09,
+      "prezzo_corrente": 1.38922,
+      "profitto": -14.95,
       "magic": 555,
       "commento": "0"
     },
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17818,
-      "prezzo_corrente": 1.17419,
-      "profitto": -6.80,
+      "prezzo_corrente": 1.17441,
+      "profitto": -6.42,
       "magic": 123,
       "commento": "0"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.18419,
-      "prezzo_corrente": 1.17419,
-      "profitto": -17.03,
+      "prezzo_corrente": 1.17441,
+      "profitto": -16.66,
       "magic": 123,
       "commento": "0"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.09,
       "prezzo_apertura": 1.18667,
-      "prezzo_corrente": 1.17419,
-      "profitto": 95.04,
+      "prezzo_corrente": 1.17441,
+      "profitto": 93.33,
       "magic": 555,
       "commento": "0"
     },
@@ -88,8 +88,8 @@
       "tipo": "SELL",
       "lotto": 0.07,
       "prezzo_apertura": 1.18072,
-      "prezzo_corrente": 1.17419,
-      "profitto": 38.45,
+      "prezzo_corrente": 1.17441,
+      "profitto": 37.13,
       "magic": 555,
       "commento": "0"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.05,
       "prezzo_apertura": 1.17470,
-      "prezzo_corrente": 1.17419,
-      "profitto": 1.83,
+      "prezzo_corrente": 1.17441,
+      "profitto": 0.89,
       "magic": 555,
       "commento": "0"
     },
@@ -108,8 +108,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.16883,
-      "prezzo_corrente": 1.17419,
-      "profitto": -18.53,
+      "prezzo_corrente": 1.17441,
+      "profitto": -19.28,
       "magic": 555,
       "commento": "0"
     },
@@ -118,8 +118,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.16283,
-      "prezzo_corrente": 1.17419,
-      "profitto": -29.23,
+      "prezzo_corrente": 1.17441,
+      "profitto": -29.78,
       "magic": 555,
       "commento": "0"
     },
@@ -128,8 +128,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15679,
-      "prezzo_corrente": 1.17419,
-      "profitto": -29.77,
+      "prezzo_corrente": 1.17441,
+      "profitto": -30.14,
       "magic": 555,
       "commento": "0"
     },
@@ -138,8 +138,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.14628,
-      "prezzo_corrente": 1.17419,
-      "profitto": -47.67,
+      "prezzo_corrente": 1.17441,
+      "profitto": -48.04,
       "magic": 555,
       "commento": "0"
     },
@@ -148,11 +148,11 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.14019,
-      "prezzo_corrente": 1.17419,
-      "profitto": -58.04,
+      "prezzo_corrente": 1.17441,
+      "profitto": -58.41,
       "magic": 555,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.09.25 01:21"
+  "aggiornato_il": "2025.09.25 01:26"
 }
