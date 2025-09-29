@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6514.21,
-    "equity": 6467.97,
+    "equity": 6467.76,
     "margine": 390.22,
-    "margine_libero": 6077.75,
+    "margine_libero": 6077.54,
     "leva": 400,
     "profitto_giornaliero": 7.63,
     "profitto_mensile": 118.23
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17303,
-      "prezzo_corrente": 1.17316,
-      "profitto": 0.22,
+      "prezzo_corrente": 1.17309,
+      "profitto": 0.10,
       "magic": 123,
       "commento": "0"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.17247,
-      "prezzo_corrente": 1.17316,
-      "profitto": -1.31,
+      "prezzo_corrente": 1.17309,
+      "profitto": -1.19,
       "magic": 555,
       "commento": "0"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.39530,
-      "prezzo_corrente": 1.39153,
-      "profitto": 6.60,
+      "prezzo_corrente": 1.39161,
+      "profitto": 6.45,
       "magic": 555,
       "commento": "0"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.39448,
-      "prezzo_corrente": 1.39153,
-      "profitto": -3.61,
+      "prezzo_corrente": 1.39161,
+      "profitto": -3.52,
       "magic": 123,
       "commento": "0"
     },
@@ -58,8 +58,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38928,
-      "prezzo_corrente": 1.39153,
-      "profitto": -2.98,
+      "prezzo_corrente": 1.39161,
+      "profitto": -3.07,
       "magic": 555,
       "commento": "0"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38328,
-      "prezzo_corrente": 1.39153,
-      "profitto": -10.33,
+      "prezzo_corrente": 1.39161,
+      "profitto": -10.42,
       "magic": 555,
       "commento": "0"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.37720,
-      "prezzo_corrente": 1.39153,
-      "profitto": -17.78,
+      "prezzo_corrente": 1.39161,
+      "profitto": -17.87,
       "magic": 555,
       "commento": "0"
     },
@@ -88,11 +88,11 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.16515,
-      "prezzo_corrente": 1.17316,
-      "profitto": -13.79,
+      "prezzo_corrente": 1.17309,
+      "profitto": -13.67,
       "magic": 555,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.09.29 23:51"
+  "aggiornato_il": "2025.09.29 23:56"
 }
