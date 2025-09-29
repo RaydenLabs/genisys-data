@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6510.66,
-    "equity": 6447.75,
+    "equity": 6446.96,
     "margine": 556.89,
-    "margine_libero": 5890.86,
+    "margine_libero": 5890.07,
     "leva": 400,
     "profitto_giornaliero": 0.00,
     "profitto_mensile": 110.60
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.16515,
-      "prezzo_corrente": 1.17266,
-      "profitto": -12.94,
+      "prezzo_corrente": 1.17253,
+      "profitto": -12.72,
       "magic": 555,
       "commento": "0"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16628,
-      "prezzo_corrente": 1.17266,
-      "profitto": 16.32,
+      "prezzo_corrente": 1.17253,
+      "profitto": 15.99,
       "magic": 123,
       "commento": "0"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17226,
-      "prezzo_corrente": 1.17266,
-      "profitto": 0.68,
+      "prezzo_corrente": 1.17253,
+      "profitto": 0.46,
       "magic": 123,
       "commento": "0"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17818,
-      "prezzo_corrente": 1.17266,
-      "profitto": -9.41,
+      "prezzo_corrente": 1.17253,
+      "profitto": -9.64,
       "magic": 123,
       "commento": "0"
     },
@@ -108,11 +108,11 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.18419,
-      "prezzo_corrente": 1.17266,
-      "profitto": -19.66,
+      "prezzo_corrente": 1.17253,
+      "profitto": -19.89,
       "magic": 123,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.09.29 03:36"
+  "aggiornato_il": "2025.09.29 03:41"
 }
