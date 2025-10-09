@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6549.73,
-    "equity": 6388.27,
+    "equity": 6388.07,
     "margine": 675.00,
-    "margine_libero": 5713.27,
+    "margine_libero": 5713.07,
     "leva": 400,
     "profitto_giornaliero": 8.95,
     "profitto_mensile": 32.55
@@ -18,8 +18,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.40221,
-      "prezzo_corrente": 1.40164,
-      "profitto": -0.71,
+      "prezzo_corrente": 1.40167,
+      "profitto": -0.67,
       "magic": 123,
       "commento": "0"
     },
@@ -38,8 +38,8 @@
       "tipo": "SELL",
       "lotto": 0.04,
       "prezzo_apertura": 1.40131,
-      "prezzo_corrente": 1.40164,
-      "profitto": -1.26,
+      "prezzo_corrente": 1.40167,
+      "profitto": -1.33,
       "magic": 555,
       "commento": "0"
     },
@@ -68,8 +68,8 @@
       "tipo": "SELL",
       "lotto": 0.03,
       "prezzo_apertura": 1.39530,
-      "prezzo_corrente": 1.40164,
-      "profitto": -12.07,
+      "prezzo_corrente": 1.40167,
+      "profitto": -12.12,
       "magic": 555,
       "commento": "0"
     },
@@ -78,8 +78,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38928,
-      "prezzo_corrente": 1.40164,
-      "profitto": -15.47,
+      "prezzo_corrente": 1.40167,
+      "profitto": -15.51,
       "magic": 555,
       "commento": "0"
     },
@@ -88,8 +88,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.38328,
-      "prezzo_corrente": 1.40164,
-      "profitto": -22.87,
+      "prezzo_corrente": 1.40167,
+      "profitto": -22.91,
       "magic": 555,
       "commento": "0"
     },
@@ -98,8 +98,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.37720,
-      "prezzo_corrente": 1.40164,
-      "profitto": -30.37,
+      "prezzo_corrente": 1.40167,
+      "profitto": -30.41,
       "magic": 555,
       "commento": "0"
     },
@@ -124,5 +124,5 @@
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.10.09 22:02"
+  "aggiornato_il": "2025.10.09 22:07"
 }
