@@ -5,21 +5,31 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6173.03,
-    "equity": 6136.89,
-    "margine": 238.50,
-    "margine_libero": 5898.39,
+    "equity": 6135.38,
+    "margine": 238.51,
+    "margine_libero": 5896.87,
     "leva": 400,
     "profitto_giornaliero": 7.27,
     "profitto_mensile": 96.01
   },
   "operazioni_attive": [
     {
+      "simbolo": "USDCAD",
+      "tipo": "SELL",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.39218,
+      "prezzo_corrente": 1.39287,
+      "profitto": -1.07,
+      "magic": 555,
+      "commento": "0"
+    },
+    {
       "simbolo": "EURUSD",
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.16219,
-      "prezzo_corrente": 1.16396,
-      "profitto": -3.18,
+      "prezzo_corrente": 1.16380,
+      "profitto": -2.90,
       "magic": 555,
       "commento": "0"
     },
@@ -28,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.39474,
-      "prezzo_corrente": 1.39299,
-      "profitto": -2.16,
+      "prezzo_corrente": 1.39287,
+      "profitto": -2.31,
       "magic": 123,
       "commento": "0"
     },
@@ -38,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.16663,
-      "prezzo_corrente": 1.16396,
-      "profitto": -4.59,
+      "prezzo_corrente": 1.16380,
+      "profitto": -4.86,
       "magic": 123,
       "commento": "0"
     },
@@ -48,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.40081,
-      "prezzo_corrente": 1.39299,
-      "profitto": -9.65,
+      "prezzo_corrente": 1.39287,
+      "profitto": -9.80,
       "magic": 123,
       "commento": "0"
     },
@@ -58,11 +68,11 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.40687,
-      "prezzo_corrente": 1.39299,
-      "profitto": -17.13,
+      "prezzo_corrente": 1.39287,
+      "profitto": -17.28,
       "magic": 123,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.10.29 13:40"
+  "aggiornato_il": "2025.10.29 13:45"
 }
