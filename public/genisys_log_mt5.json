@@ -4,13 +4,13 @@
     "nome": "11098900",
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
-    "saldo": 6180.17,
-    "equity": 6133.69,
-    "margine": 305.61,
-    "margine_libero": 5828.08,
+    "saldo": 6185.01,
+    "equity": 6134.61,
+    "margine": 248.67,
+    "margine_libero": 5885.94,
     "leva": 400,
-    "profitto_giornaliero": 0.00,
-    "profitto_mensile": 97.77
+    "profitto_giornaliero": 3.70,
+    "profitto_mensile": 101.47
   },
   "operazioni_attive": [
     {
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15522,
-      "prezzo_corrente": 1.15610,
-      "profitto": -1.66,
+      "prezzo_corrente": 1.15615,
+      "profitto": -1.75,
       "magic": 555,
       "commento": "0"
     },
@@ -28,8 +28,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.39628,
-      "prezzo_corrente": 1.40178,
-      "profitto": -7.01,
+      "prezzo_corrente": 1.40148,
+      "profitto": -6.64,
       "magic": 555,
       "commento": "0"
     },
@@ -38,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.16055,
-      "prezzo_corrente": 1.15610,
-      "profitto": -7.70,
+      "prezzo_corrente": 1.15615,
+      "profitto": -7.61,
       "magic": 123,
       "commento": "0"
     },
@@ -48,19 +48,9 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.39028,
-      "prezzo_corrente": 1.40178,
-      "profitto": -14.42,
+      "prezzo_corrente": 1.40148,
+      "profitto": -14.05,
       "magic": 555,
-      "commento": "0"
-    },
-    {
-      "simbolo": "USDCAD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.39474,
-      "prezzo_corrente": 1.40178,
-      "profitto": 8.69,
-      "magic": 123,
       "commento": "0"
     },
     {
@@ -68,31 +58,11 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.16663,
-      "prezzo_corrente": 1.15610,
-      "profitto": -18.22,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
-      "simbolo": "USDCAD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.40081,
-      "prezzo_corrente": 1.40178,
-      "profitto": 1.20,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
-      "simbolo": "USDCAD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.40687,
-      "prezzo_corrente": 1.40178,
-      "profitto": -6.28,
+      "prezzo_corrente": 1.15615,
+      "profitto": -18.13,
       "magic": 123,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.10.31 11:41"
+  "aggiornato_il": "2025.10.31 11:46"
 }
