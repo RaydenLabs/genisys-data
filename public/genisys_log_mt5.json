@@ -14,26 +14,6 @@
   },
   "operazioni_attive": [
     {
-      "simbolo": "EURUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.15286,
-      "prezzo_corrente": 1.15376,
-      "profitto": -1.84,
-      "magic": 555,
-      "commento": "0"
-    },
-    {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.15455,
-      "prezzo_corrente": 1.15376,
-      "profitto": -1.37,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "SELL",
       "lotto": 0.02,
@@ -64,16 +44,6 @@
       "commento": "0"
     },
     {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.16055,
-      "prezzo_corrente": 1.15376,
-      "profitto": -11.77,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "SELL",
       "lotto": 0.02,
@@ -81,6 +51,36 @@
       "prezzo_corrente": 1.40093,
       "profitto": -13.80,
       "magic": 555,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "SELL",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.15286,
+      "prezzo_corrente": 1.15376,
+      "profitto": -1.84,
+      "magic": 555,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.15455,
+      "prezzo_corrente": 1.15376,
+      "profitto": -1.37,
+      "magic": 123,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.16055,
+      "prezzo_corrente": 1.15376,
+      "profitto": -11.77,
+      "magic": 123,
       "commento": "0"
     },
     {
@@ -94,5 +94,5 @@
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.11.01 07:51"
+  "aggiornato_il": "2025.11.01 07:56"
 }
