@@ -4,32 +4,22 @@
     "nome": "11098900",
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
-    "saldo": 6255.51,
-    "equity": 6222.40,
-    "margine": 248.55,
-    "margine_libero": 5973.85,
+    "saldo": 6257.44,
+    "equity": 6222.08,
+    "margine": 248.59,
+    "margine_libero": 5973.49,
     "leva": 400,
-    "profitto_giornaliero": 0.00,
-    "profitto_mensile": 88.41
+    "profitto_giornaliero": 1.93,
+    "profitto_mensile": 90.34
   },
   "operazioni_attive": [
-    {
-      "simbolo": "USDCAD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.40346,
-      "prezzo_corrente": 1.40195,
-      "profitto": 1.64,
-      "magic": 555,
-      "commento": "0"
-    },
     {
       "simbolo": "EURUSD",
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.16042,
-      "prezzo_corrente": 1.15677,
-      "profitto": -6.31,
+      "prezzo_corrente": 1.15681,
+      "profitto": -6.24,
       "magic": 123,
       "commento": "0"
     },
@@ -38,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.40567,
-      "prezzo_corrente": 1.40195,
-      "profitto": -4.59,
+      "prezzo_corrente": 1.40173,
+      "profitto": -4.86,
       "magic": 123,
       "commento": "0"
     },
@@ -48,8 +38,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.41168,
-      "prezzo_corrente": 1.40195,
-      "profitto": -12.00,
+      "prezzo_corrente": 1.40173,
+      "profitto": -12.27,
       "magic": 123,
       "commento": "0"
     },
@@ -58,8 +48,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15616,
-      "prezzo_corrente": 1.15677,
-      "profitto": -1.19,
+      "prezzo_corrente": 1.15681,
+      "profitto": -1.26,
       "magic": 555,
       "commento": "0"
     },
@@ -68,11 +58,11 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15017,
-      "prezzo_corrente": 1.15677,
-      "profitto": -11.55,
+      "prezzo_corrente": 1.15681,
+      "profitto": -11.62,
       "magic": 555,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.11.28 12:57"
+  "aggiornato_il": "2025.11.28 13:02"
 }
