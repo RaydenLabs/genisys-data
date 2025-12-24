@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 6322.76,
-    "equity": 5860.56,
+    "equity": 5861.25,
     "margine": 1561.22,
-    "margine_libero": 4299.34,
+    "margine_libero": 4300.03,
     "leva": 400,
     "profitto_giornaliero": 1.86,
     "profitto_mensile": 69.33
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.36787,
-      "prezzo_corrente": 1.36728,
-      "profitto": 0.06,
+      "prezzo_corrente": 1.36733,
+      "profitto": -0.02,
       "magic": 555,
       "commento": "0"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.09,
       "prezzo_apertura": 1.36958,
-      "prezzo_corrente": 1.36728,
-      "profitto": -12.86,
+      "prezzo_corrente": 1.36733,
+      "profitto": -12.58,
       "magic": 123,
       "commento": "0"
     },
@@ -48,8 +48,8 @@
       "tipo": "BUY",
       "lotto": 0.07,
       "prezzo_apertura": 1.37558,
-      "prezzo_corrente": 1.36728,
-      "profitto": -36.08,
+      "prezzo_corrente": 1.36733,
+      "profitto": -35.86,
       "magic": 123,
       "commento": "0"
     },
@@ -58,8 +58,8 @@
       "tipo": "BUY",
       "lotto": 0.05,
       "prezzo_apertura": 1.38159,
-      "prezzo_corrente": 1.36728,
-      "profitto": -44.43,
+      "prezzo_corrente": 1.36733,
+      "profitto": -44.28,
       "magic": 123,
       "commento": "0"
     },
@@ -68,8 +68,8 @@
       "tipo": "BUY",
       "lotto": 0.04,
       "prezzo_apertura": 1.38763,
-      "prezzo_corrente": 1.36728,
-      "profitto": -50.55,
+      "prezzo_corrente": 1.36733,
+      "profitto": -50.43,
       "magic": 123,
       "commento": "0"
     },
@@ -78,8 +78,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.39363,
-      "prezzo_corrente": 1.36728,
-      "profitto": -49.10,
+      "prezzo_corrente": 1.36733,
+      "profitto": -49.00,
       "magic": 123,
       "commento": "0"
     },
@@ -88,8 +88,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.39969,
-      "prezzo_corrente": 1.36728,
-      "profitto": -40.26,
+      "prezzo_corrente": 1.36733,
+      "profitto": -40.19,
       "magic": 123,
       "commento": "0"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.40567,
-      "prezzo_corrente": 1.36728,
-      "profitto": -47.69,
+      "prezzo_corrente": 1.36733,
+      "profitto": -47.62,
       "magic": 123,
       "commento": "0"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.41168,
-      "prezzo_corrente": 1.36728,
-      "profitto": -55.15,
+      "prezzo_corrente": 1.36733,
+      "profitto": -55.08,
       "magic": 123,
       "commento": "0"
     },
@@ -119,7 +119,7 @@
       "lotto": 0.05,
       "prezzo_apertura": 1.18020,
       "prezzo_corrente": 1.17780,
-      "profitto": 9.76,
+      "profitto": 9.68,
       "magic": 555,
       "commento": "0"
     },
@@ -129,7 +129,7 @@
       "lotto": 0.04,
       "prezzo_apertura": 1.17415,
       "prezzo_corrente": 1.17780,
-      "profitto": -12.73,
+      "profitto": -12.80,
       "magic": 555,
       "commento": "0"
     },
@@ -139,7 +139,7 @@
       "lotto": 0.03,
       "prezzo_apertura": 1.16815,
       "prezzo_corrente": 1.17780,
-      "profitto": -24.83,
+      "profitto": -24.88,
       "magic": 555,
       "commento": "0"
     },
@@ -149,7 +149,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.16213,
       "prezzo_corrente": 1.17780,
-      "profitto": -26.78,
+      "profitto": -26.81,
       "magic": 555,
       "commento": "0"
     },
@@ -159,7 +159,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.15616,
       "prezzo_corrente": 1.17780,
-      "profitto": -36.91,
+      "profitto": -36.95,
       "magic": 555,
       "commento": "0"
     },
@@ -169,10 +169,10 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.15017,
       "prezzo_corrente": 1.17780,
-      "profitto": -47.08,
+      "profitto": -47.12,
       "magic": 555,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2025.12.24 21:48"
+  "aggiornato_il": "2025.12.24 21:53"
 }
