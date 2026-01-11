@@ -24,16 +24,6 @@
       "commento": "0"
     },
     {
-      "simbolo": "EURUSD",
-      "tipo": "SELL",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.16295,
-      "prezzo_corrente": 1.16330,
-      "profitto": -0.81,
-      "magic": 555,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "SELL",
       "lotto": 0.04,
@@ -64,16 +54,6 @@
       "commento": "0"
     },
     {
-      "simbolo": "EURUSD",
-      "tipo": "BUY",
-      "lotto": 0.02,
-      "prezzo_apertura": 1.16751,
-      "prezzo_corrente": 1.16330,
-      "profitto": -7.24,
-      "magic": 123,
-      "commento": "0"
-    },
-    {
       "simbolo": "USDCAD",
       "tipo": "SELL",
       "lotto": 0.02,
@@ -91,6 +71,26 @@
       "prezzo_corrente": 1.39142,
       "profitto": -33.05,
       "magic": 555,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "SELL",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.16295,
+      "prezzo_corrente": 1.16330,
+      "profitto": -0.81,
+      "magic": 555,
+      "commento": "0"
+    },
+    {
+      "simbolo": "EURUSD",
+      "tipo": "BUY",
+      "lotto": 0.02,
+      "prezzo_apertura": 1.16751,
+      "prezzo_corrente": 1.16330,
+      "profitto": -7.24,
+      "magic": 123,
       "commento": "0"
     },
     {
@@ -114,5 +114,5 @@
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2026.01.11 05:42"
+  "aggiornato_il": "2026.01.11 05:49"
 }
