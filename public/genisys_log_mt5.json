@@ -5,9 +5,9 @@
     "broker": "Ava Trade EU Ltd.",
     "valuta": "EUR",
     "saldo": 4519.56,
-    "equity": 4341.33,
+    "equity": 4341.01,
     "margine": 672.56,
-    "margine_libero": 3668.77,
+    "margine_libero": 3668.45,
     "leva": 400,
     "profitto_giornaliero": 5.07,
     "profitto_mensile": 64.53
@@ -18,8 +18,8 @@
       "tipo": "SELL",
       "lotto": 0.02,
       "prezzo_apertura": 1.15977,
-      "prezzo_corrente": 1.16080,
-      "profitto": -1.91,
+      "prezzo_corrente": 1.16075,
+      "profitto": -1.83,
       "magic": 555,
       "commento": "0"
     },
@@ -28,8 +28,8 @@
       "tipo": "BUY",
       "lotto": 0.03,
       "prezzo_apertura": 1.16162,
-      "prezzo_corrente": 1.16080,
-      "profitto": -2.12,
+      "prezzo_corrente": 1.16075,
+      "profitto": -2.25,
       "magic": 123,
       "commento": "0"
     },
@@ -39,7 +39,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.39155,
       "prezzo_corrente": 1.38958,
-      "profitto": -2.44,
+      "profitto": -2.45,
       "magic": 123,
       "commento": "0"
     },
@@ -69,7 +69,7 @@
       "lotto": 0.02,
       "prezzo_apertura": 1.37687,
       "prezzo_corrente": 1.38958,
-      "profitto": -15.99,
+      "profitto": -15.98,
       "magic": 555,
       "commento": "0"
     },
@@ -98,8 +98,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.16751,
-      "prezzo_corrente": 1.16080,
-      "profitto": -11.56,
+      "prezzo_corrente": 1.16075,
+      "profitto": -11.65,
       "magic": 123,
       "commento": "0"
     },
@@ -108,8 +108,8 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17385,
-      "prezzo_corrente": 1.16080,
-      "profitto": -22.48,
+      "prezzo_corrente": 1.16075,
+      "profitto": -22.57,
       "magic": 123,
       "commento": "0"
     },
@@ -118,11 +118,11 @@
       "tipo": "BUY",
       "lotto": 0.02,
       "prezzo_apertura": 1.17985,
-      "prezzo_corrente": 1.16080,
-      "profitto": -32.82,
+      "prezzo_corrente": 1.16075,
+      "profitto": -32.91,
       "magic": 123,
       "commento": "0"
     }
   ],
-  "aggiornato_il": "2026.01.15 16:44"
+  "aggiornato_il": "2026.01.15 16:49"
 }
